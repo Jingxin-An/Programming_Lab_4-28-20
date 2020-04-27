@@ -1,0 +1,8 @@
+,Category,SubCategory,Indicator,Year,Geography,Geo_Group,Geo_ID,Demography,Demo_Group,Number,Cum_Number,Ave_Annual_Number,Crude_Rate,Lower_95CI_Crude_Rate,Upper_95CI_Crude_Rate,Age_Adj_Rate,Lower_95CI_Age_Adj_Rate,Upper_95CI_Age_Adj_Rate,Percent,Lower_95CI_Percent,Upper_95CI_Percent,Weight_Number,Weight_Percent,Lower_95CI_Weight_Percent,Upper_95CI_Weight_Percent,Map_Key,Flag,Crude_Rate_Standardized
+0,Social and Economic Factors,Education,College graduation or more,2017,City,Chicago,606,Race-ethnicity,All race-ethnicities,728591,,,,,,,,,38.8,,,,,,,,G,
+1,Social and Economic Factors,Education,College graduation or more,2017,City,Chicago,606,Gender,Male,339496,,,,,,,,,37.6,,,,,,,,G,
+2,Social and Economic Factors,Education,College graduation or more,2017,City,Chicago,606,Gender,Female,389095,,,,,,,,,39.9,,,,,,,,G,
+3,Social and Economic Factors,Education,College graduation or more,2017,City,Chicago,606,Race-ethnicity,African American or Black,114408,,,,,,,,,21.1,,,,,,,,G,
+4,Social and Economic Factors,Education,College graduation or more,2017,City,Chicago,606,Race-ethnicity,Asian ,82768,,,,,,,,,62.9,,,,,,,,G,
+5,Social and Economic Factors,Education,College graduation or more,2017,City,Chicago,606,Race-ethnicity,Hispanic or Latino,75980,,,,,,,,,16.0,,,,,,,,G,
+6,Social and Economic Factors,Education,College graduation or more,2017,City,Chicago,606,Race-ethnicity,Non-Hispanic White,440029,,,,,,,,,62.6,,,,,,,,G,
